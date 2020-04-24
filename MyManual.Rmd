@@ -1,0 +1,36 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+My Manual (version 0.0)
+=============
+
+### Working Modes
+
+**1. Brutal** doing the same thing all day long except when eating, sleeping, and bathroom. (particularly good for deadline work)
+
+**2. Hard** doing two/three things all day long except when eating, sleeping, and bathroom. (particularly good for side work beside deadline work)
+
+**3. Medium** doing two/three things for specific parts of the day.
+
+**4. Easy** doing one thing for specific parts of the day.
+
+### Types of Work
+
+**1. Type 1 Deadline** deadline on the range of 10 *days*.
+
+**2. Type 2 Deadline** deadline on the range of 2-4 *weeks*.
+
+**3. Type 3 Deadline** deadline on the range of 2-4 *months*.
+
+**4. Type 4 Deadline** deadline on the range of 1-2 *years*.
+
+### Rules for ordering deadlines
+
+1. deadlines are first ordered by range.
+2. if two deadlines happened to be from the same type, they are ordered by ranked accomplishment list.
+
+
+
+
